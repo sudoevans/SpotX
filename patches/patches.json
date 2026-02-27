@@ -741,6 +741,13 @@
                     "fr": "1.1.67",
                     "to": "1.1.95"
                 }
+            },
+            "bypassApplyUpdateCheck": {
+                "name": "bypassApplyUpdateCheck",
+                "version": {
+                    "fr": "1.2.84",
+                    "to": ""
+                }
             }
         },
         "EnableExp": {
@@ -1443,7 +1450,7 @@
                 "native_description": "Enable ability to ban/hide tracks from eligible contexts",
                 "version": {
                     "fr": "1.2.52",
-                    "to": ""
+                    "to": "1.2.83"
                 }
             },
             "ArtistLikedSongs": {
